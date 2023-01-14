@@ -123,7 +123,7 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 </div>  
 <br>
 <div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<h2 align="center">Thank you for reading 🙋🏽‍♂️</h2>
 <div>
 <p>
 <img src="https://64.media.tumblr.com/01f842b3548d722c78ea4880f60dd831/tumblr_ow11tltacL1sg8uefo1_540.gifv" align="right" />
