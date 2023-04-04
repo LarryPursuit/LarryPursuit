@@ -84,7 +84,7 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 <div>
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"](https://github-readme-streak-stats.herokuapp.com?user=LarryPursuit&theme=dracula&hide_border=true)/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"](https://github-readme-streak-stats.herokuapp.com?user=LarryPursuit&theme=dracula&hide_border=true)/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
