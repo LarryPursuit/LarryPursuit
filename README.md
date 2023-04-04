@@ -87,7 +87,7 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
   
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LarryPursuit&show_icons=true&locale=en" alt="LarryPursuit" />
   
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryPursuit&show_icons=true&locale=en&layout=compact" alt="LarryPursuit" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryPursuit&show_icons=true&locale=en&layout=compact" alt="LarryPursuit" />
   
 </p>
 </div>
