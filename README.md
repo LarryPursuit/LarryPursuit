@@ -84,6 +84,7 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 <div>
 <p align = "center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+  
   ![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryPursuit&show_icons=true&theme=radical)
   
 </p>
