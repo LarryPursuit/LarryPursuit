@@ -82,13 +82,13 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div>
-<p align = "center">
+<p align = "left">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
   
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LarryPursuit&show_icons=true&locale=en" alt="LarryPursuit" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryPursuit&show_icons=true&locale=en" alt="LarryPursuit" />
   
   <div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryPursuit&show_icons=true&locale=en&layout=compact" alt="LarryPursuit" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryPursuit&show_icons=true&locale=en&layout=compact" alt="LarryPursuit" />
   </div>
   
 </p>
