@@ -82,10 +82,10 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div>
-<p align = "right">
+<p align = "center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
   
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LarryPursuit&show_icons=true&locale=en" alt="LarryPursuit" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LarryPursuit&show_icons=true&locale=en" alt="LarryPursuit" />
   
   <div>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LarryPursuit&show_icons=true&locale=en&layout=compact" alt="LarryPursuit" />
@@ -93,7 +93,7 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
   
 </p>
   
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=LarryPursuit&label=Profile%20views&color=0e75b6&style=flat" alt="LarryPursuit" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=LarryPursuit&label=Profile%20views&color=0e75b6&style=flat" alt="LarryPursuit" /> </p>
   
   <div>
   <center><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LarryPursuit&margin-w=15" alt="LarryPursuit" /></a> </p></center>
