@@ -113,6 +113,11 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 ![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@The25thWanderer/30-nites-of-code)  
+  ![@The25thWanderer #30NitesOfCode](https://www.codedex.io/api/petStatus?user=The25thWanderer)
+<br>
+
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
@@ -126,6 +131,8 @@ My Favourite Artist (アイドル):  Souly Had, Kenny Hoopla, Umi, Paramore, Jad
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  <br><img src = "https://media.tenor.com/DkmsvoJVFvQAAAAC/air-gear.gif" width = "400"/>
 </div>  
+
+
 
 
 
